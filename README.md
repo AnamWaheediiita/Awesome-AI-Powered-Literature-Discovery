@@ -40,7 +40,7 @@ This research paper evaluates AI-powered literature discovery tools and compares
 The paper examines how AI can support scholarly search, literature exploration, research synthesis, citation discovery, and evidence-based research workflows.
 
 **Paper:**
-[View AI-Assisted Research Paper](./paper/AI_Assisted_Research_Paper.pdf)
+[View AI-Assisted Research Paper](./Paper/AI_Assisted_Research_Paper.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ The references and citation-supported claims in the AI-assisted research paper w
 The audit was conducted to ensure that AI-generated or AI-assisted references were not accepted without verification.
 
 **Audit:**
-[View Citation Integrity Audit](./citation-audit/Citation_Integrity_Audit.pdf)
+[View Citation Integrity Audit](./citation-audit/Citation_integrity_audit.pdf)
 
 ---
 
@@ -62,7 +62,7 @@ This repository contains a collection of **20+ verified scholarly papers** relat
 The collection includes survey papers, foundational research, recommendation methods, citation-recommendation approaches, AI and scientific-language models, and research-automation studies.
 
 **Collection:**
-[View Verified Research Papers](./references/references.md)
+[View Verified Research Papers](./References/references.md)
 
 ---
 
@@ -77,7 +77,7 @@ Current resources include:
 * **SciDocs** — Benchmark suite for evaluating scientific document representations and related tasks.
 
 **Datasets:**
-[View Datasets](./datasets/datasets.md)
+[View Datasets](./Datasets/datasets.md)
 
 ---
 
@@ -94,7 +94,7 @@ This repository documents five AI-powered tools that can assist researchers with
 | **Semantic Scholar** | Scientific paper and citation discovery                     |
 
 **Tools:**
-[View AI Research Tools](./tools/tools.md)
+[View AI Research Tools](./Tools/tools.md)
 
 ---
 
@@ -111,7 +111,7 @@ The collection includes projects such as:
 * Pyserini
 
 **Implementations:**
-[View GitHub Implementations](./implementations/github-repositories.md)
+[View GitHub Implementations](./Implementations/github-repositories.md)
 
 ---
 
@@ -128,7 +128,7 @@ Resources include:
 * Stanford's *Introduction to Information Retrieval*
 
 **Learning Resources:**
-[View Tutorials and Learning Resources](./tutorials/learning-resources.md)
+[View Tutorials and Learning Resources](./Tutorials/learning-resources.md)
 
 ---
 
@@ -141,26 +141,26 @@ awesome-ai-powered-literature-discovery/
 ├── LICENSE
 ├── .gitignore
 │
-├── paper/
+├── Paper/
 │   ├── README.md
 │   └── AI_Assisted_Research_Paper.pdf
 │
 ├── citation-audit/
-│   └── Citation_Integrity_Audit.pdf
+│   └── Citation_integrity_audit.pdf
 │
-├── references/
+├── References/
 │   └── references.md
 │
-├── datasets/
+├── Datasets/
 │   └── datasets.md
 │
-├── tools/
+├── Tools/
 │   └── tools.md
 │
-├── implementations/
+├── Implementations/
 │   └── github-repositories.md
 │
-└── tutorials/
+└── Tutorials/
     └── learning-resources.md
 ```
 
